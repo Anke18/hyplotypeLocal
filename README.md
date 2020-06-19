@@ -4,7 +4,7 @@
  * @Author: Anke Wang
  * @Date: 2020-06-19 13:14:55
  * @LastEditors: Anke Wang
- * @LastEditTime: 2020-06-19 16:19:23
+ * @LastEditTime: 2020-06-19 16:33:11
 --> 
 # hyplotypeTools
 
@@ -20,12 +20,12 @@ Examples can be seen here: https://bigd.big.ac.cn/ncov/haplotype
 - Get code for Final Version (just clone from master):
   > git clone https://github.com/Anke18/hyplotypeTools.git
 - Install dependencies:
-  > **Note:** npm install
+  > **Run:** npm install
 - Set data source:
   > **Note:** change data source in src/index.js
 - Run on the local server:
-  > **Note:** npm run-script test
-  - After creating a local copy of the repository and with the server code working, could go to browser to see the webpage (http://localhost:8080/).
+  > **Run:** npm run-script test
+  > After creating a local copy of the repository and with the server code working, could go to browser to see the webpage (http://localhost:8080/).
 
 ## References
 
