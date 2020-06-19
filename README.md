@@ -4,7 +4,7 @@
  * @Author: Anke Wang
  * @Date: 2020-06-19 13:14:55
  * @LastEditors: Anke Wang
- * @LastEditTime: 2020-06-19 16:36:01
+ * @LastEditTime: 2020-06-19 16:37:12
 --> 
 # hyplotypeTools
 
@@ -24,7 +24,7 @@ Examples can be seen here: https://bigd.big.ac.cn/ncov/haplotype
 - Set data source:
   > **Note:** change data source in src/index.js
 - Run on the local server:
-  > **Run:** npm run-script test
+  > **Run:** npm run-script test  
   > After creating a local copy of the repository and with the server code working, could go to browser to see the webpage (http://localhost:8080/).
 
 ## References
