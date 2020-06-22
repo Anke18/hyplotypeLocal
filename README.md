@@ -4,14 +4,14 @@
  * @Author: Anke Wang
  * @Date: 2020-06-19 13:14:55
  * @LastEditors: Anke Wang
- * @LastEditTime: 2020-06-19 17:25:33
+ * @LastEditTime: 2020-06-22 14:23:09
 --> 
 # hyplotypeTools
 
 (Emmmmmm....better than nothing...    
 
   
-This is a open source tool that will allow users to develop their own Viral Genotyping Map.  
+This is an open source tool that will allow users to develop their own Viral Genotyping Map.  
 This tool developed by National Genomics Data Center (https://bigd.big.ac.cn/), is uesd for ncov haplotype cluster visualization.  
 Examples can be seen here: https://bigd.big.ac.cn/ncov/haplotype  
 
