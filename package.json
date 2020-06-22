@@ -29,7 +29,8 @@
     "jquery-ui": "^1.12.1",
     "jquery-ui-bundle": "^1.12.1-migrate",
     "save-svg-as-png": "^1.4.17",
-    "select2": "^4.0.13"
+    "select2": "^4.0.13",
+    "serialize-javascript": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
