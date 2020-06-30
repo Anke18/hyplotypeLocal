@@ -6,7 +6,7 @@
  * @LastEditors: Anke Wang
  * @LastEditTime: 2020-06-22 14:23:09
 --> 
-# hyplotypeTools
+# haplotypeTools
 
 (Emmmmmm....better than nothing...    
 
